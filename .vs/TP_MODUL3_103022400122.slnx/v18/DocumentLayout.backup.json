@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\Downloads\\TP_MODUL3_103022400122\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{857B5FA8-3A1A-4F33-BA2D-7A72DA895D9E}|TP_MODUL3_103022400122\\TP_MODUL3_103022400122.csproj|c:\\users\\acer\\downloads\\tp_modul3_103022400122\\tp_modul3_103022400122\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{857B5FA8-3A1A-4F33-BA2D-7A72DA895D9E}|TP_MODUL3_103022400122\\TP_MODUL3_103022400122.csproj|solutionrelative:tp_modul3_103022400122\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B34C9769-C726-A8EE-D5D3-E2D67C8ABC67}|TP_MODUL3_103022400122\\TP_MODUL3_103022400122.csproj|c:\\users\\acer\\downloads\\tp_modul3_103022400122\\tp_modul3_103022400122\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B34C9769-C726-A8EE-D5D3-E2D67C8ABC67}|TP_MODUL3_103022400122\\TP_MODUL3_103022400122.csproj|solutionrelative:tp_modul3_103022400122\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C9769-C726-A8EE-D5D3-E2D67C8ABC67}|TP_MODUL3_103022400122\\TP_MODUL3_103022400122.csproj|c:\\users\\acer\\downloads\\tp_modul3_103022400122\\tp_modul3_103022400122\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34C9769-C726-A8EE-D5D3-E2D67C8ABC67}|TP_MODUL3_103022400122\\TP_MODUL3_103022400122.csproj|solutionrelative:tp_modul3_103022400122\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\TP_MODUL3_103022400122\\TP_MODUL3_103022400122\\Form1.cs",
+              "RelativeDocumentMoniker": "TP_MODUL3_103022400122\\Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\TP_MODUL3_103022400122\\TP_MODUL3_103022400122\\Form1.cs",
+              "RelativeToolTip": "TP_MODUL3_103022400122\\Form1.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAA6wGcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:29:43.844Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
